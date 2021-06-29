@@ -1,0 +1,47 @@
+.page {
+  position: absolute;
+  left: 15px;
+  right: 15px;
+}
+
+.page-enter {
+  opacity: 0;
+  transform: scale(1.1);
+}
+
+.page-enter-active {
+  opacity: 1;
+  transform: scale(1);
+  transition: opacity 300ms, transform 300ms;
+}
+
+.page-exit {
+  opacity: 1;
+  transform: scale(1);
+}
+
+.page-exit-active {
+  opacity: 0;
+  transform: scale(0.9);
+  transition: opacity 300ms, transform 300ms;
+}
+
+.cursor-pointer {
+  cursor: pointer;
+}
+
+.minHeight-50 {
+  min-height: 50vh;
+}
+
+.minHeight-70 {
+  min-height: 70vh;
+}
+
+.minHeight-40 {
+  min-height: 40vh;
+}
+
+.bg-primary, .dropdown-item.active, .dropdown-item:active {
+  background-color: #572965!important;
+}
