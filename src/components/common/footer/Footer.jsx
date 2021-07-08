@@ -5,7 +5,7 @@ export const Footer = () => {
     return (
         <footer>
             <div className="footer-content">
-                <h3>Templeton Foundation</h3>
+                <h3>John Templeton Foundation</h3>
                 <p>
                     Philosophy of Science Group, National Concil for Scientific and Technical Research (CONICET)
                 </p>
