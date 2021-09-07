@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/www.ba-philsciences.ar/static/css/main.c5ea3712.chunk.css",
+    "main.js": "/www.ba-philsciences.ar/static/js/main.d4e2f918.chunk.js",
+    "main.js.map": "/www.ba-philsciences.ar/static/js/main.d4e2f918.chunk.js.map",
+    "runtime-main.js": "/www.ba-philsciences.ar/static/js/runtime-main.aeb3039b.js",
+    "runtime-main.js.map": "/www.ba-philsciences.ar/static/js/runtime-main.aeb3039b.js.map",
+    "static/css/2.4f8976c6.chunk.css": "/www.ba-philsciences.ar/static/css/2.4f8976c6.chunk.css",
+    "static/js/2.006574a7.chunk.js": "/www.ba-philsciences.ar/static/js/2.006574a7.chunk.js",
+    "static/js/2.006574a7.chunk.js.map": "/www.ba-philsciences.ar/static/js/2.006574a7.chunk.js.map",
+    "index.html": "/www.ba-philsciences.ar/index.html",
+    "static/css/2.4f8976c6.chunk.css.map": "/www.ba-philsciences.ar/static/css/2.4f8976c6.chunk.css.map",
+    "static/css/main.c5ea3712.chunk.css.map": "/www.ba-philsciences.ar/static/css/main.c5ea3712.chunk.css.map",
+    "static/js/2.006574a7.chunk.js.LICENSE.txt": "/www.ba-philsciences.ar/static/js/2.006574a7.chunk.js.LICENSE.txt",
+    "static/media/logo-templeton.911930e5.svg": "/www.ba-philsciences.ar/static/media/logo-templeton.911930e5.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.aeb3039b.js",
+    "static/css/2.4f8976c6.chunk.css",
+    "static/js/2.006574a7.chunk.js",
+    "static/css/main.c5ea3712.chunk.css",
+    "static/js/main.d4e2f918.chunk.js"
+  ]
+}

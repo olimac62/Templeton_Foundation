@@ -26,6 +26,7 @@
     "styled-components": "^5.2.3",
     "web-vitals": "^1.0.1"
   },
+  "homepage": "www.ba-philsciences.ar",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
