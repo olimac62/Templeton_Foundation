@@ -36,13 +36,22 @@ export const monthlySeminars = [
     date: "16 de Junio de 2021",
   },
   {
-    id: 4,
-    pdfPresentation: "/pdfs/activities/TiempoenMHI.pdf",
-    title: "Tiempo en MHI",
+    id: 5,
+    pdfPresentation: "/pdfs/activities/IrreversibilidadPrimera Parte.pdf",
+    title: "El problema de la irreversibilidad: primera parte",
     description:
-      "En cosmología, suele denominarse “flecha cosmológica del tiempo” al sentido temporal de expansión del universo: dicha flecha será global en un universo Big Bang-Big Chill, pero apuntará en distintos sentidos en un universo Big Bang-Big Crunch. Esta terminología privilegia el “radio” del universo frente a otras propiedades geométricas del espacio-tiempo. Pero, ¿por qué aceptar el carácter privilegiado del radio respecto de otras propiedades geométricas del universo? En el presente trabajo se argumentará que: (i) La flecha del tiempo cosmológica no es una consecuencia inevitable de las leyes físicas: es una propiedad contingente del espacio-tiempo, (ii) los modelos cosmológicos standard de la cosmología contemporánea cumplen las condiciones necesarias para posee una flecha cosmológica del tiempo con alta probabilidad, y (iii) el carácter contingente de la flecha cosmológica del tiempo no minimiza su carácter objetivo.",
+      "El problema de la flecha del tiempo consiste en brindar un fundamento físico a la diferencia entre las dos direcciones temporales. La respuesta tradicional apela al segundo principio de la termodinámica: la dirección pasado-a-futuro se concibe como la dirección en la que aumenta la entropía. El propósito de esta charla será presentar un enfoque diferente, según el cual la flecha del tiempo puede definirse en términos de las propiedades geométricas del espacio-tiempo, independientemente de argumentos termodinámicos. Desde esta perspectiva, la flecha del tiempo es una característica contingente que el universo posee si su espacio-tiempo cumple con los siguientes requisitos: orientabilidad temporal, existencia de tiempo global y asimetría temporal. A su vez, se analizarán las consecuencias de relajar cada uno de esos requisitos.",
     directedBy: "Seminar dictated by Olimpia Lombardi",
-    date: "3 de Junio de 2021",
+    date: "11 de Agosto de 2021",
+  },
+  {
+    id: 6,
+    pdfPresentation: "/pdfs/activities/IrreversibilidadSegunda Parte",
+    title: "El problema de la irreversibilidad: segunda parte",
+    description:
+      "Este trabajo, continuación del anterior, se focalizará en explicar el programa de Boltzmann de reducción de la termodinámica a la mecánica. Sobre esta base, se recordarán las críticas que dicho programa debió enfrentar, en particular las de Loschmidt y Zermelo. Finalmente, se introducirá brevemente el enfoque de Gibbs, con la idea de dejar preparado el terreno para discutir, en próximos encuentros, ambos enfoques desde una perspectiva ya no histórica sino técnica y filosófica.",
+    directedBy: "Seminar dictated by Olimpia Lombardi",
+    date: "1 de Spetiembre de 2021",
   },
 ];
 
