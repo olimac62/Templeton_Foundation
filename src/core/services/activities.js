@@ -1,7 +1,7 @@
 export const monthlySeminars = [
   {
     id: 1,
-    pdfPresentation: "/pdfs/activities/Wandering thoughts on symmetries",
+    pdfPresentation: "/pdfs/activities/presentacion1.pdf",
     title: "Wandering thoughts on symmetries",
     description:
       "En el presente trabajo analizaré algunos aspectos de las simetrías en física. En particular, argumentaré que la interpretación de las simetrías en física depende fuertemente de: (i) qué se entiende por teoría física y ley, (ii) qué papel cumple la idealización en física y en metafísica, y (iii) que ontología subyacente se presupone.",
@@ -10,7 +10,7 @@ export const monthlySeminars = [
   },
   {
     id: 2,
-    pdfPresentation: "/pdfs/activities/IMH y naturaleza relacional del tiempo.pdf",
+    pdfPresentation: "/pdfs/activities/presentacion2.pdf",
     title: "La interpretación modal-Hamiltoniana y la naturaleza relacional del tiempo",
     description:
       "Sobre la base de la distinción entre tiempo externo y tiempo de eventos en mecánica cuántica, se propone una reconstrucción relacional del tiempo de eventos sobre la base de la interpretación modal-Hamiltoniana. Se señalará, además, que si se adopta una perspectiva holista que no distinga, el sistema completo resulta atemporal: no hay secuencia de eventos.",
@@ -19,7 +19,7 @@ export const monthlySeminars = [
   },
   {
     id: 3,
-    pdfPresentation: "/pdfs/activities/Revisión artículo de De Haro",
+    pdfPresentation: "/pdfs/activities/presentacion3.pdf",
     title: "Revisión del artículo de De Haro ‘Noether’s Theorems and Energy in General Relativity’",
     description:
       "La presentación se abocará a revisar y comentar el artículo de Sebastian De Haro “Noether’s Theorems and Energy in General Relativity” (2021). En particular, se considerará el modo en que De Haro evalúa diferentes propuestas respecto de (i) la definición de energía (momentum) gravitacional y (ii) la conservación de la energía en relatividad general.",
@@ -28,7 +28,7 @@ export const monthlySeminars = [
   },
   {
     id: 4,
-    pdfPresentation: "/pdfs/activities/Flecha global geométrica-revisando requisitos.pdf",
+    pdfPresentation: "/pdfs/activities/presentacion4.pdf",
     title: "El enfoque global-geométrico de la flecha del tiempo: revisando sus requisitos",
     description:
       "El problema de la flecha del tiempo consiste en brindar un fundamento físico a la diferencia entre las dos direcciones temporales. La respuesta tradicional apela al segundo principio de la termodinámica: la dirección pasado-a-futuro se concibe como la dirección en la que aumenta la entropía. El propósito de esta charla será presentar un enfoque diferente, según el cual la flecha del tiempo puede definirse en términos de las propiedades geométricas del espacio-tiempo, independientemente de argumentos termodinámicos. Desde esta perspectiva, la flecha del tiempo es una característica contingente que el universo posee si su espacio-tiempo cumple con los siguientes requisitos: orientabilidad temporal, existencia de tiempo global y asimetría temporal. A su vez, se analizarán las consecuencias de relajar cada uno de esos requisitos.",
@@ -37,7 +37,7 @@ export const monthlySeminars = [
   },
   {
     id: 5,
-    pdfPresentation: "/pdfs/activities/IrreversibilidadPrimera Parte.pdf",
+    pdfPresentation: "/pdfs/activities/presentacion5.pdf",
     title: "El problema de la irreversibilidad: primera parte",
     description:
       "El problema de la flecha del tiempo consiste en brindar un fundamento físico a la diferencia entre las dos direcciones temporales. La respuesta tradicional apela al segundo principio de la termodinámica: la dirección pasado-a-futuro se concibe como la dirección en la que aumenta la entropía. El propósito de esta charla será presentar un enfoque diferente, según el cual la flecha del tiempo puede definirse en términos de las propiedades geométricas del espacio-tiempo, independientemente de argumentos termodinámicos. Desde esta perspectiva, la flecha del tiempo es una característica contingente que el universo posee si su espacio-tiempo cumple con los siguientes requisitos: orientabilidad temporal, existencia de tiempo global y asimetría temporal. A su vez, se analizarán las consecuencias de relajar cada uno de esos requisitos.",
@@ -46,12 +46,12 @@ export const monthlySeminars = [
   },
   {
     id: 6,
-    pdfPresentation: "/pdfs/activities/IrreversibilidadSegunda Parte",
+    pdfPresentation: "/pdfs/activities/presentacion6.pdf",
     title: "El problema de la irreversibilidad: segunda parte",
     description:
       "Este trabajo, continuación del anterior, se focalizará en explicar el programa de Boltzmann de reducción de la termodinámica a la mecánica. Sobre esta base, se recordarán las críticas que dicho programa debió enfrentar, en particular las de Loschmidt y Zermelo. Finalmente, se introducirá brevemente el enfoque de Gibbs, con la idea de dejar preparado el terreno para discutir, en próximos encuentros, ambos enfoques desde una perspectiva ya no histórica sino técnica y filosófica.",
     directedBy: "Seminar dictated by Olimpia Lombardi",
-    date: "1 de Spetiembre de 2021",
+    date: "1 de Septiembre de 2021",
   },
 ];
 

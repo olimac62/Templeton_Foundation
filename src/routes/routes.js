@@ -1,4 +1,3 @@
-import { Redirect } from "react-router";
 import { ViewPDF } from "../components/common/ViewPDF";
 import { Activities } from "../pages/activities/Activities";
 import { Members } from "../pages/members/Members";
@@ -49,7 +48,5 @@ export const routes = [
     exact: true,
     component: ViewPDF,
   },
-  {
-    component: () => <Redirect to="/project" />,
-  },
+
 ];
